@@ -9,7 +9,7 @@ int main(void)
                     putchar('\n');
 
 
-    int array[] = { 1 ,55 , 10 ,8} ;
+    int array[] = { 1 ,5 , 10 ,8} ;
     int size = 4 ;
 
         int max = find_max(array , size); // yparxei  sta stats.h kai stats.c
