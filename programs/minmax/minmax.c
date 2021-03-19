@@ -26,3 +26,5 @@ return 0;
 
 //  sto terminal me thn edolh     make run       trexeis thn parapanw main() me ta modules opws exoun organw8ei se xexorista directories 
 // sto terminal sto path :  ..../programs/minmax   trexeis to make run
+
+// solved
