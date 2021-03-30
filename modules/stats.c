@@ -13,9 +13,8 @@ int find_max(int array[] , int size)
                                 //  an den einai adeios tote sthn ousia bainei to proto stoixeio max opote ginetai swsta h diadikasia         
 
             for ( i = 0; i < size ; i++)
-            {
                 if(array[i] > temp)   temp = array[i];
-            }
+        
             
 
  return temp;
